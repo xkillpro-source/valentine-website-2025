@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dxjuwjurv/video/upload/v1769967188/FREE_Kehlani_-_Folded_Rap_Beat_Instrumental_Loop_With_Hook_1_goj8rl.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dxjuwjurv/video/upload/v1769967839/FREE_Kehlani_-_Folded_Rap_Beat_Instrumental_Loop_With_Hook_1_lbpn0s.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
